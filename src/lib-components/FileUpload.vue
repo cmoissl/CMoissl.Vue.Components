@@ -1,3 +1,6 @@
+//
+// This code was taken from https://stenvdb.be/articles/building-a-vuejs-drag-and-drop-file-component and some additional features were added.
+//
 <template>
 
     <div style="width: 100%">

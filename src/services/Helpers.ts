@@ -1,4 +1,6 @@
 export class Helpers {
+
+	// this code was taken from: https://stackoverflow.com/a/18650828/5654901
     static formatBytes(bytes: number, decimals = 2): string {
         if (bytes === 0) return '0 Bytes';
 
